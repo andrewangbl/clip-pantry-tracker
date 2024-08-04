@@ -39,11 +39,22 @@ Robot Pantry Tracker is a web application designed to help you manage your pantr
 
 ## Technology Stack
 
-- Frontend: Next.js with React
+### Frontend
+- Framework: Next.js with React
 - UI Components: Material-UI
-- Backend API: FastAPI
+
+### Backend
+- API Framework: FastAPI
 - Image Recognition: OpenAI CLIP model
 - Database: Firebase Firestore
+
+### Deployment
+- Frontend: Vercel
+- Backend API: AWS ECS (Elastic Container Service)
+- Load Balancing: AWS Application Load Balancer
+- Containerization: Docker
+
+The FastAPI endpoint for image recognition is available at [https://github.com/andrewangbl/clip-fastapi](https://github.com/andrewangbl/clip-fastapi).
 
 ## Getting Started
 
