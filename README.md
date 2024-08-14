@@ -4,6 +4,11 @@
 
 Robot Pantry Tracker is a web application designed to help you manage your pantry inventory efficiently. Inspired by Walmart's retail robots and inventory management systems, this app brings the power of automated inventory tracking to your home pantry.
 
+Check out my demo video to see the Robot Pantry Tracker in action:
+
+[![Robot Pantry Tracker Demo](https://img.youtube.com/vi/jL5RRZtHbbM/0.jpg)](https://www.youtube.com/watch?v=jL5RRZtHbbM)
+
+
 ## Features
 
 1. **Image Recognition**: Using an OpenAI CLIP model via a FastAPI endpoint, the app can recognize pantry items from photos.
